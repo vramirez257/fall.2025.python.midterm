@@ -36,26 +36,40 @@ ________________________________________
 3) Pick a dataset + target (no stress)
 Choose something small and relatable. My top pick for this class:
 Student Performance (education theme)
+
 •	Target for regression: G3 (final grade 0–20).
+
 •	Target for classification: passed (create it as G3 >= 10).
+
 •	Why: Easy to explain, mixed columns (numbers + categories), and quick to run.
+
 If you prefer business: Telco Churn (target: Churn yes/no).
 If you prefer science: Wine Quality (target: quality 0–10).
 You only need one dataset and one target.
 ________________________________________
 4) The 5-step recipe (what each step means and why it’s there)
+
 Step A — Acquire & Clean (tidy the table)
+
 •	Goal: Make the table sane.
+
 •	Do:
+
 1.	Load the CSV.
 2.	Drop duplicate rows.
 3.	Handle missing values: fill numbers with a median; fill categories with the most common value.
 4.	Trim spaces in text columns (“Yes ” → “Yes”).
+
 •	Why: Messy data confuses both you and the model. Tidy table = reliable results.
+
 Your report sentence: “We removed X duplicates and imputed missing numeric values with the median because it resists outliers.”
+
 Step B — Preprocess (make it model-friendly)
+
 •	Goal: Turn everything into numbers and keep scales reasonable.
+
 •	Do:
+
 o	Encode categories (e.g., “school = GP/MS” → 0/1 columns).
 o	Scale numeric columns (so 0–1 and 0–1000 don’t skew a linear model).
 •	Why: Models need numeric, well-scaled input to learn effectively.
