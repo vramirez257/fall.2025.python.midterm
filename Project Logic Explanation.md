@@ -2,16 +2,27 @@
 We’ll pick a dataset, tidy it, look at it with simple charts, train 2 models to make a prediction, and explain which model did better and why—all in plain English.
 ________________________________________
 1) The cast of characters (plain-English glossary)
-•	Dataset = a table (like Excel). Each row is one thing (a student, a house). Each column is a property (study time, bedrooms).
-•	Feature = an input column you can use to predict something (e.g., studytime, absences).
-•	Target = the one column you’re trying to predict (e.g., final grade).
-•	Cleaning = fixing obvious messes (missing values, duplicates, weird text).
-•	Preprocessing = gentle prep so models can eat the data (numbers scaled, words turned into numbers).
-•	EDA (Exploratory Data Analysis) = quick stats + simple charts to understand your data before modeling.
-•	Model = a recipe that learns from examples to make predictions (e.g., “Logistic Regression”, “Random Forest”).
-•	Metric = a score to judge your model (e.g., accuracy for yes/no, RMSE for numbers).
+
+A) Dataset = a table (like Excel). Each row is one thing (a student, a house). Each column is a property (study time, bedrooms).
+
+B) Feature = an input column you can use to predict something (e.g., studytime, absences).
+
+C) Target = the one column you’re trying to predict (e.g., final grade).
+
+D) Cleaning = fixing obvious messes (missing values, duplicates, weird text).
+
+E) Preprocessing = gentle prep so models can eat the data (numbers scaled, words turned into numbers).
+
+F) EDA (Exploratory Data Analysis) = quick stats + simple charts to understand your data before modeling.
+
+G) Model = a recipe that learns from examples to make predictions (e.g., “Logistic Regression”, “Random Forest”).
+
+H) Metric = a score to judge your model (e.g., accuracy for yes/no, RMSE for numbers).
+
 Two kinds of targets:
+
 •	Classification (predict a category): “pass vs fail”, “churn yes/no”.
+
 •	Regression (predict a number): “final grade 0–20”, “house price”.
 ________________________________________
 2) What success looks like (grading guide in human terms)
