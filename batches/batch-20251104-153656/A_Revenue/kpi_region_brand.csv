@@ -1,0 +1,31 @@
+Region,Brand,Sales,Orders
+Asia-Pacific,Acer,980684.01,324
+Asia-Pacific,Apple,1009692.95,322
+Asia-Pacific,Asus,1000255.49,335
+Asia-Pacific,Dell,999848.76,324
+Asia-Pacific,HP,832282.4,286
+Asia-Pacific,Lenovo,988252.24,343
+Asia-Pacific,MSI,1030682.48,326
+Asia-Pacific,Microsoft,1084741.12,341
+Asia-Pacific,Razer,976031.21,322
+Asia-Pacific,Samsung,986287.28,320
+Europe,Acer,999223.21,340
+Europe,Apple,993703.21,336
+Europe,Asus,1075325.34,354
+Europe,Dell,1028292.98,339
+Europe,HP,1135628.57,350
+Europe,Lenovo,1112423.85,356
+Europe,MSI,1072908.35,360
+Europe,Microsoft,1151271.84,370
+Europe,Razer,1027103.41,346
+Europe,Samsung,997972.54,329
+North America,Acer,1100957.19,356
+North America,Apple,1036982.43,323
+North America,Asus,956780.41,311
+North America,Dell,998659.16,333
+North America,HP,962810.84,318
+North America,Lenovo,1017130.82,335
+North America,MSI,1006356.27,326
+North America,Microsoft,961597.47,318
+North America,Razer,951867.08,333
+North America,Samsung,1014268.12,324

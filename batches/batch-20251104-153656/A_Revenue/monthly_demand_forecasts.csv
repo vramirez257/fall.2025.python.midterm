@@ -1,0 +1,504 @@
+Region,Brand,Category,YearMonth,ActualUnits,PredUnits
+Asia-Pacific,Acer,All-in-One,2025-05-01,4.0,2.68375
+Asia-Pacific,Acer,All-in-One,2025-06-01,6.0,2.3704166666666664
+Asia-Pacific,Acer,All-in-One,2025-07-01,2.0,3.5783333333333336
+Asia-Pacific,Acer,All-in-One,2025-08-01,4.0,3.103333333333333
+Asia-Pacific,Acer,All-in-One,2025-09-01,8.0,4.4855833333333335
+Asia-Pacific,Acer,All-in-One,2025-10-01,2.0,4.91
+Asia-Pacific,Acer,Desktop,2025-05-01,3.0,2.3141666666666665
+Asia-Pacific,Acer,Desktop,2025-06-01,2.0,2.93625
+Asia-Pacific,Acer,Desktop,2025-08-01,3.0,2.8699166666666667
+Asia-Pacific,Acer,Desktop,2025-10-01,2.0,3.0061924603174606
+Asia-Pacific,Acer,Gaming Laptop,2025-05-01,1.0,3.24
+Asia-Pacific,Acer,Gaming Laptop,2025-06-01,2.0,3.506934523809523
+Asia-Pacific,Acer,Gaming Laptop,2025-07-01,1.0,3.0969166666666665
+Asia-Pacific,Acer,Gaming Laptop,2025-09-01,3.0,2.993452380952381
+Asia-Pacific,Acer,Laptop,2025-05-01,2.0,3.0766249999999995
+Asia-Pacific,Acer,Laptop,2025-06-01,3.0,4.821625
+Asia-Pacific,Acer,Laptop,2025-07-01,2.0,3.821625
+Asia-Pacific,Acer,Laptop,2025-09-01,4.0,3.1337499999999996
+Asia-Pacific,Apple,All-in-One,2025-06-01,7.0,3.521041666666667
+Asia-Pacific,Apple,All-in-One,2025-08-01,2.0,2.371875
+Asia-Pacific,Apple,All-in-One,2025-09-01,2.0,4.299166666666667
+Asia-Pacific,Apple,All-in-One,2025-10-01,1.0,3.22725
+Asia-Pacific,Apple,Desktop,2025-05-01,5.0,3.235625
+Asia-Pacific,Apple,Desktop,2025-06-01,1.0,3.565
+Asia-Pacific,Apple,Desktop,2025-07-01,2.0,2.81
+Asia-Pacific,Apple,Desktop,2025-08-01,1.0,4.419375
+Asia-Pacific,Apple,Gaming Laptop,2025-05-01,6.0,3.2069017857142854
+Asia-Pacific,Apple,Gaming Laptop,2025-06-01,2.0,2.962083333333333
+Asia-Pacific,Apple,Gaming Laptop,2025-08-01,2.0,4.487916666666667
+Asia-Pacific,Apple,Gaming Laptop,2025-09-01,1.0,1.9633333333333334
+Asia-Pacific,Apple,Gaming Laptop,2025-10-01,4.0,4.324166666666667
+Asia-Pacific,Apple,Laptop,2025-06-01,3.0,3.111875
+Asia-Pacific,Apple,Laptop,2025-07-01,3.0,3.8929166666666664
+Asia-Pacific,Apple,Laptop,2025-08-01,3.0,4.039333333333334
+Asia-Pacific,Asus,All-in-One,2025-05-01,1.0,2.6205833333333333
+Asia-Pacific,Asus,All-in-One,2025-06-01,3.0,3.01625
+Asia-Pacific,Asus,All-in-One,2025-10-01,1.0,4.2017500000000005
+Asia-Pacific,Asus,Desktop,2025-06-01,1.0,4.16
+Asia-Pacific,Asus,Desktop,2025-08-01,3.0,3.4404583333333334
+Asia-Pacific,Asus,Desktop,2025-09-01,9.0,4.322541666666667
+Asia-Pacific,Asus,Gaming Laptop,2025-06-01,3.0,7.947916666666665
+Asia-Pacific,Asus,Gaming Laptop,2025-07-01,1.0,3.02225
+Asia-Pacific,Asus,Gaming Laptop,2025-08-01,3.0,2.817916666666666
+Asia-Pacific,Asus,Gaming Laptop,2025-10-01,1.0,3.208541666666667
+Asia-Pacific,Asus,Laptop,2025-05-01,5.0,3.899083333333333
+Asia-Pacific,Asus,Laptop,2025-06-01,1.0,3.851273809523809
+Asia-Pacific,Asus,Laptop,2025-08-01,2.0,3.236791666666667
+Asia-Pacific,Asus,Laptop,2025-10-01,2.0,3.399291666666666
+Asia-Pacific,Dell,All-in-One,2025-05-01,9.0,4.188125
+Asia-Pacific,Dell,All-in-One,2025-06-01,2.0,3.1625
+Asia-Pacific,Dell,All-in-One,2025-07-01,3.0,3.9979166666666663
+Asia-Pacific,Dell,All-in-One,2025-08-01,1.0,4.888333333333333
+Asia-Pacific,Dell,Desktop,2025-05-01,2.0,2.050476190476191
+Asia-Pacific,Dell,Desktop,2025-06-01,3.0,2.7755833333333335
+Asia-Pacific,Dell,Desktop,2025-07-01,6.0,2.27675
+Asia-Pacific,Dell,Desktop,2025-08-01,7.0,3.514583333333334
+Asia-Pacific,Dell,Desktop,2025-09-01,2.0,3.300416666666666
+Asia-Pacific,Dell,Desktop,2025-10-01,3.0,2.775
+Asia-Pacific,Dell,Gaming Laptop,2025-05-01,1.0,2.8416666666666663
+Asia-Pacific,Dell,Gaming Laptop,2025-07-01,2.0,4.057500000000001
+Asia-Pacific,Dell,Gaming Laptop,2025-09-01,4.0,3.2174166666666664
+Asia-Pacific,Dell,Laptop,2025-05-01,4.0,4.681749999999999
+Asia-Pacific,Dell,Laptop,2025-06-01,5.0,2.9628333333333337
+Asia-Pacific,Dell,Laptop,2025-08-01,4.0,2.7427083333333333
+Asia-Pacific,Dell,Laptop,2025-09-01,2.0,2.9075416666666665
+Asia-Pacific,Dell,Laptop,2025-10-01,1.0,4.1860059523809525
+Asia-Pacific,HP,All-in-One,2025-05-01,1.0,3.055333333333333
+Asia-Pacific,HP,All-in-One,2025-07-01,4.0,2.4525
+Asia-Pacific,HP,All-in-One,2025-08-01,5.0,3.8192708333333343
+Asia-Pacific,HP,All-in-One,2025-09-01,4.0,3.57625
+Asia-Pacific,HP,All-in-One,2025-10-01,3.0,3.191
+Asia-Pacific,HP,Desktop,2025-05-01,3.0,3.0825416666666667
+Asia-Pacific,HP,Desktop,2025-08-01,2.0,3.1535416666666665
+Asia-Pacific,HP,Desktop,2025-09-01,3.0,3.57375
+Asia-Pacific,HP,Desktop,2025-10-01,1.0,3.668290674603175
+Asia-Pacific,HP,Gaming Laptop,2025-06-01,2.0,2.5725
+Asia-Pacific,HP,Gaming Laptop,2025-09-01,3.0,5.037541666666666
+Asia-Pacific,HP,Laptop,2025-05-01,3.0,3.3032747113997103
+Asia-Pacific,HP,Laptop,2025-06-01,2.0,3.822916666666666
+Asia-Pacific,HP,Laptop,2025-08-01,2.0,2.378589285714286
+Asia-Pacific,Lenovo,All-in-One,2025-05-01,5.0,4.412708333333333
+Asia-Pacific,Lenovo,All-in-One,2025-06-01,6.0,2.8775
+Asia-Pacific,Lenovo,All-in-One,2025-07-01,3.0,3.355
+Asia-Pacific,Lenovo,All-in-One,2025-08-01,3.0,3.0441666666666665
+Asia-Pacific,Lenovo,All-in-One,2025-10-01,3.0,3.51875
+Asia-Pacific,Lenovo,Desktop,2025-06-01,3.0,3.6604166666666664
+Asia-Pacific,Lenovo,Desktop,2025-07-01,4.0,2.786666666666666
+Asia-Pacific,Lenovo,Desktop,2025-10-01,2.0,1.9991666666666668
+Asia-Pacific,Lenovo,Gaming Laptop,2025-05-01,1.0,4.094833333333333
+Asia-Pacific,Lenovo,Gaming Laptop,2025-06-01,3.0,2.8660654761904762
+Asia-Pacific,Lenovo,Gaming Laptop,2025-07-01,3.0,4.219125
+Asia-Pacific,Lenovo,Laptop,2025-05-01,2.0,2.9658214285714286
+Asia-Pacific,Lenovo,Laptop,2025-06-01,3.0,3.7079166666666676
+Asia-Pacific,Lenovo,Laptop,2025-08-01,2.0,2.3175
+Asia-Pacific,Lenovo,Laptop,2025-09-01,4.0,2.6193869047619045
+Asia-Pacific,MSI,All-in-One,2025-08-01,3.0,2.4391666666666665
+Asia-Pacific,MSI,Desktop,2025-06-01,2.0,2.9057499999999994
+Asia-Pacific,MSI,Desktop,2025-07-01,2.0,3.4403630952380952
+Asia-Pacific,MSI,Desktop,2025-08-01,3.0,3.2667321428571428
+Asia-Pacific,MSI,Desktop,2025-10-01,4.0,3.541500000000001
+Asia-Pacific,MSI,Gaming Laptop,2025-06-01,2.0,3.295833333333333
+Asia-Pacific,MSI,Gaming Laptop,2025-07-01,2.0,6.998125
+Asia-Pacific,MSI,Gaming Laptop,2025-08-01,3.0,3.35
+Asia-Pacific,MSI,Laptop,2025-06-01,2.0,3.186666666666667
+Asia-Pacific,MSI,Laptop,2025-08-01,2.0,3.315208333333333
+Asia-Pacific,MSI,Laptop,2025-09-01,1.0,4.692083333333333
+Asia-Pacific,MSI,Laptop,2025-10-01,4.0,4.409458333333333
+Asia-Pacific,Microsoft,All-in-One,2025-05-01,1.0,3.4774047619047614
+Asia-Pacific,Microsoft,All-in-One,2025-06-01,2.0,3.710958333333333
+Asia-Pacific,Microsoft,All-in-One,2025-07-01,1.0,2.785354166666666
+Asia-Pacific,Microsoft,All-in-One,2025-08-01,2.0,3.3737083333333335
+Asia-Pacific,Microsoft,All-in-One,2025-09-01,6.0,3.892166666666666
+Asia-Pacific,Microsoft,Desktop,2025-05-01,3.0,3.6303630952380956
+Asia-Pacific,Microsoft,Desktop,2025-06-01,3.0,2.5672827380952388
+Asia-Pacific,Microsoft,Desktop,2025-08-01,5.0,7.032958333333333
+Asia-Pacific,Microsoft,Desktop,2025-09-01,6.0,2.8625
+Asia-Pacific,Microsoft,Gaming Laptop,2025-06-01,1.0,5.638791666666666
+Asia-Pacific,Microsoft,Gaming Laptop,2025-07-01,4.0,3.145
+Asia-Pacific,Microsoft,Gaming Laptop,2025-08-01,2.0,4.08
+Asia-Pacific,Microsoft,Gaming Laptop,2025-09-01,7.0,3.1534583333333335
+Asia-Pacific,Microsoft,Gaming Laptop,2025-10-01,3.0,3.9545833333333333
+Asia-Pacific,Microsoft,Laptop,2025-06-01,1.0,3.86875
+Asia-Pacific,Microsoft,Laptop,2025-07-01,5.0,3.69675
+Asia-Pacific,Microsoft,Laptop,2025-09-01,1.0,4.747083333333333
+Asia-Pacific,Microsoft,Laptop,2025-10-01,7.0,2.915916666666667
+Asia-Pacific,Razer,All-in-One,2025-05-01,1.0,4.517321428571428
+Asia-Pacific,Razer,All-in-One,2025-07-01,4.0,3.355892857142857
+Asia-Pacific,Razer,All-in-One,2025-08-01,1.0,2.6631666666666667
+Asia-Pacific,Razer,Desktop,2025-05-01,1.0,4.645845238095239
+Asia-Pacific,Razer,Desktop,2025-06-01,1.0,3.409761904761905
+Asia-Pacific,Razer,Desktop,2025-08-01,1.0,2.3810416666666665
+Asia-Pacific,Razer,Gaming Laptop,2025-05-01,2.0,3.8475
+Asia-Pacific,Razer,Gaming Laptop,2025-06-01,3.0,3.5170833333333333
+Asia-Pacific,Razer,Gaming Laptop,2025-07-01,2.0,2.6830000000000003
+Asia-Pacific,Razer,Gaming Laptop,2025-08-01,4.0,5.360500000000001
+Asia-Pacific,Razer,Laptop,2025-06-01,3.0,10.237708333333332
+Asia-Pacific,Razer,Laptop,2025-07-01,3.0,4.8829175685425685
+Asia-Pacific,Razer,Laptop,2025-09-01,3.0,3.6871664793539765
+Asia-Pacific,Samsung,All-in-One,2025-06-01,1.0,3.7
+Asia-Pacific,Samsung,All-in-One,2025-07-01,5.0,5.531839285714287
+Asia-Pacific,Samsung,All-in-One,2025-09-01,4.0,3.282708333333334
+Asia-Pacific,Samsung,Desktop,2025-06-01,1.0,3.209458333333334
+Asia-Pacific,Samsung,Desktop,2025-07-01,2.0,1.9741666666666666
+Asia-Pacific,Samsung,Desktop,2025-09-01,1.0,3.1734285714285715
+Asia-Pacific,Samsung,Desktop,2025-10-01,1.0,3.5864166666666666
+Asia-Pacific,Samsung,Gaming Laptop,2025-05-01,2.0,3.117125
+Asia-Pacific,Samsung,Gaming Laptop,2025-08-01,3.0,3.888625
+Asia-Pacific,Samsung,Gaming Laptop,2025-09-01,1.0,3.641940476190476
+Asia-Pacific,Samsung,Gaming Laptop,2025-10-01,3.0,2.5443958333333336
+Asia-Pacific,Samsung,Laptop,2025-06-01,1.0,3.3153749999999995
+Asia-Pacific,Samsung,Laptop,2025-07-01,2.0,3.1443333333333334
+Asia-Pacific,Samsung,Laptop,2025-08-01,6.0,4.353541666666667
+Asia-Pacific,Samsung,Laptop,2025-09-01,3.0,2.9346249999999996
+Asia-Pacific,Samsung,Laptop,2025-10-01,5.0,2.655208333333333
+Europe,Acer,All-in-One,2025-05-01,4.0,2.9170833333333333
+Europe,Acer,All-in-One,2025-06-01,3.0,3.5379166666666664
+Europe,Acer,All-in-One,2025-07-01,3.0,2.8010833333333336
+Europe,Acer,All-in-One,2025-08-01,4.0,2.6099494047619043
+Europe,Acer,All-in-One,2025-09-01,5.0,2.0739166666666664
+Europe,Acer,All-in-One,2025-10-01,1.0,3.171625
+Europe,Acer,Desktop,2025-05-01,3.0,3.9568333333333334
+Europe,Acer,Desktop,2025-07-01,3.0,6.256154761904761
+Europe,Acer,Desktop,2025-08-01,9.0,2.8104583333333335
+Europe,Acer,Desktop,2025-10-01,4.0,3.5508333333333337
+Europe,Acer,Gaming Laptop,2025-05-01,6.0,2.8231011904761907
+Europe,Acer,Gaming Laptop,2025-07-01,3.0,3.86
+Europe,Acer,Gaming Laptop,2025-08-01,1.0,4.808125
+Europe,Acer,Gaming Laptop,2025-09-01,5.0,2.841333333333333
+Europe,Acer,Gaming Laptop,2025-10-01,3.0,3.999375
+Europe,Acer,Laptop,2025-05-01,3.0,3.04325
+Europe,Acer,Laptop,2025-06-01,4.0,3.408069444444444
+Europe,Acer,Laptop,2025-07-01,2.0,3.46125
+Europe,Acer,Laptop,2025-08-01,1.0,4.775025793650793
+Europe,Acer,Laptop,2025-09-01,4.0,3.624851190476191
+Europe,Acer,Laptop,2025-10-01,1.0,3.913480158730158
+Europe,Apple,All-in-One,2025-05-01,5.0,3.03125
+Europe,Apple,All-in-One,2025-06-01,7.0,2.45275
+Europe,Apple,All-in-One,2025-07-01,2.0,2.746875
+Europe,Apple,All-in-One,2025-08-01,3.0,3.6475
+Europe,Apple,All-in-One,2025-09-01,3.0,3.012083333333333
+Europe,Apple,Desktop,2025-05-01,6.0,3.44375
+Europe,Apple,Desktop,2025-06-01,7.0,3.744791666666667
+Europe,Apple,Desktop,2025-07-01,4.0,3.4625
+Europe,Apple,Desktop,2025-08-01,1.0,2.8025
+Europe,Apple,Gaming Laptop,2025-07-01,2.0,3.273333333333334
+Europe,Apple,Gaming Laptop,2025-08-01,11.0,4.542791666666667
+Europe,Apple,Gaming Laptop,2025-10-01,5.0,4.16
+Europe,Apple,Laptop,2025-05-01,1.0,3.14
+Europe,Apple,Laptop,2025-06-01,5.0,3.834166666666667
+Europe,Apple,Laptop,2025-09-01,6.0,3.898053571428571
+Europe,Asus,All-in-One,2025-05-01,2.0,2.804583333333333
+Europe,Asus,All-in-One,2025-07-01,6.0,3.4697499999999994
+Europe,Asus,All-in-One,2025-08-01,2.0,3.1743333333333332
+Europe,Asus,All-in-One,2025-09-01,1.0,2.720958333333333
+Europe,Asus,All-in-One,2025-10-01,3.0,3.6563333333333334
+Europe,Asus,Desktop,2025-05-01,1.0,3.6108690476190475
+Europe,Asus,Desktop,2025-06-01,1.0,4.149988095238096
+Europe,Asus,Desktop,2025-08-01,9.0,3.5555833333333333
+Europe,Asus,Desktop,2025-09-01,1.0,3.888
+Europe,Asus,Gaming Laptop,2025-05-01,5.0,2.723083333333333
+Europe,Asus,Gaming Laptop,2025-06-01,4.0,4.046
+Europe,Asus,Gaming Laptop,2025-07-01,8.0,3.1160416666666664
+Europe,Asus,Gaming Laptop,2025-08-01,2.0,3.576875
+Europe,Asus,Gaming Laptop,2025-09-01,1.0,3.408166666666667
+Europe,Asus,Gaming Laptop,2025-10-01,3.0,3.559
+Europe,Asus,Laptop,2025-05-01,1.0,5.62952380952381
+Europe,Asus,Laptop,2025-06-01,3.0,4.167291666666667
+Europe,Asus,Laptop,2025-07-01,1.0,3.6843333333333335
+Europe,Asus,Laptop,2025-08-01,3.0,4.479708333333334
+Europe,Asus,Laptop,2025-09-01,1.0,3.6843333333333335
+Europe,Dell,All-in-One,2025-05-01,1.0,2.7293750000000006
+Europe,Dell,All-in-One,2025-06-01,4.0,2.878333333333333
+Europe,Dell,All-in-One,2025-07-01,2.0,4.148934523809524
+Europe,Dell,All-in-One,2025-08-01,6.0,1.8479166666666669
+Europe,Dell,All-in-One,2025-09-01,5.0,3.4373750000000003
+Europe,Dell,Desktop,2025-05-01,3.0,3.25
+Europe,Dell,Desktop,2025-06-01,2.0,2.735
+Europe,Dell,Desktop,2025-07-01,3.0,3.3256041666666665
+Europe,Dell,Desktop,2025-08-01,4.0,3.7693511904761907
+Europe,Dell,Desktop,2025-09-01,7.0,1.9180416666666664
+Europe,Dell,Gaming Laptop,2025-05-01,2.0,3.322291666666666
+Europe,Dell,Gaming Laptop,2025-07-01,1.0,2.3791666666666664
+Europe,Dell,Laptop,2025-05-01,2.0,2.500833333333333
+Europe,Dell,Laptop,2025-06-01,2.0,5.226875
+Europe,Dell,Laptop,2025-07-01,3.0,3.2863333333333333
+Europe,Dell,Laptop,2025-09-01,2.0,4.238354166666667
+Europe,Dell,Laptop,2025-10-01,3.0,3.3447410714285706
+Europe,HP,All-in-One,2025-05-01,3.0,3.794583333333333
+Europe,HP,All-in-One,2025-06-01,6.0,3.751750000000001
+Europe,HP,All-in-One,2025-07-01,3.0,3.685214285714286
+Europe,HP,All-in-One,2025-08-01,1.0,3.4242500000000002
+Europe,HP,All-in-One,2025-09-01,4.0,4.147458333333334
+Europe,HP,Desktop,2025-05-01,6.0,3.2142500000000003
+Europe,HP,Desktop,2025-06-01,1.0,3.2550833333333338
+Europe,HP,Desktop,2025-07-01,3.0,3.3125
+Europe,HP,Desktop,2025-08-01,3.0,3.331666666666666
+Europe,HP,Desktop,2025-09-01,4.0,4.382625000000001
+Europe,HP,Gaming Laptop,2025-05-01,3.0,6.915
+Europe,HP,Gaming Laptop,2025-06-01,2.0,5.575
+Europe,HP,Gaming Laptop,2025-08-01,2.0,3.885625
+Europe,HP,Gaming Laptop,2025-09-01,5.0,3.8166547619047617
+Europe,HP,Laptop,2025-06-01,2.0,4.819791666666667
+Europe,HP,Laptop,2025-07-01,3.0,4.819791666666667
+Europe,HP,Laptop,2025-09-01,3.0,3.893747023809524
+Europe,HP,Laptop,2025-10-01,2.0,3.2210969516594528
+Europe,Lenovo,All-in-One,2025-06-01,4.0,2.652083333333333
+Europe,Lenovo,All-in-One,2025-08-01,4.0,3.359380952380952
+Europe,Lenovo,All-in-One,2025-09-01,4.0,3.0174166666666666
+Europe,Lenovo,All-in-One,2025-10-01,2.0,3.251732142857143
+Europe,Lenovo,Desktop,2025-05-01,2.0,3.0804166666666664
+Europe,Lenovo,Desktop,2025-07-01,3.0,3.9091666666666667
+Europe,Lenovo,Desktop,2025-08-01,4.0,3.704434523809524
+Europe,Lenovo,Desktop,2025-10-01,1.0,2.6407500000000006
+Europe,Lenovo,Gaming Laptop,2025-05-01,2.0,3.7432083333333335
+Europe,Lenovo,Gaming Laptop,2025-07-01,3.0,3.519666666666666
+Europe,Lenovo,Gaming Laptop,2025-08-01,2.0,3.070416666666667
+Europe,Lenovo,Gaming Laptop,2025-10-01,2.0,3.259192460317461
+Europe,Lenovo,Laptop,2025-05-01,7.0,3.486041666666667
+Europe,Lenovo,Laptop,2025-06-01,3.0,3.30175
+Europe,Lenovo,Laptop,2025-08-01,5.0,3.4135416666666667
+Europe,MSI,All-in-One,2025-05-01,1.0,3.5848749999999994
+Europe,MSI,All-in-One,2025-06-01,3.0,3.3793333333333333
+Europe,MSI,All-in-One,2025-09-01,7.0,3.0538511904761907
+Europe,MSI,All-in-One,2025-10-01,2.0,3.2554166666666657
+Europe,MSI,Desktop,2025-07-01,5.0,3.3724583333333333
+Europe,MSI,Desktop,2025-08-01,7.0,2.9868333333333332
+Europe,MSI,Desktop,2025-09-01,3.0,3.595
+Europe,MSI,Desktop,2025-10-01,3.0,2.265
+Europe,MSI,Gaming Laptop,2025-05-01,6.0,3.330333333333334
+Europe,MSI,Gaming Laptop,2025-06-01,5.0,2.790208333333333
+Europe,MSI,Gaming Laptop,2025-07-01,2.0,2.49875
+Europe,MSI,Gaming Laptop,2025-09-01,5.0,3.77
+Europe,MSI,Gaming Laptop,2025-10-01,3.0,2.456958333333333
+Europe,MSI,Laptop,2025-05-01,2.0,2.935505952380952
+Europe,MSI,Laptop,2025-06-01,8.0,3.6712857142857143
+Europe,MSI,Laptop,2025-08-01,5.0,3.479166666666667
+Europe,Microsoft,All-in-One,2025-05-01,4.0,3.346875
+Europe,Microsoft,All-in-One,2025-06-01,2.0,3.43125
+Europe,Microsoft,All-in-One,2025-07-01,3.0,3.4675
+Europe,Microsoft,All-in-One,2025-08-01,4.0,7.074583333333333
+Europe,Microsoft,All-in-One,2025-10-01,3.0,3.534583333333333
+Europe,Microsoft,Desktop,2025-06-01,2.0,3.425583333333333
+Europe,Microsoft,Desktop,2025-07-01,1.0,2.961473214285714
+Europe,Microsoft,Desktop,2025-08-01,7.0,2.4358333333333335
+Europe,Microsoft,Desktop,2025-09-01,1.0,3.8180416666666672
+Europe,Microsoft,Desktop,2025-10-01,3.0,2.5130416666666666
+Europe,Microsoft,Gaming Laptop,2025-05-01,11.0,2.876958333333333
+Europe,Microsoft,Gaming Laptop,2025-07-01,2.0,4.625
+Europe,Microsoft,Gaming Laptop,2025-08-01,6.0,3.611333333333334
+Europe,Microsoft,Gaming Laptop,2025-09-01,6.0,3.99
+Europe,Microsoft,Laptop,2025-05-01,3.0,3.41
+Europe,Microsoft,Laptop,2025-09-01,5.0,5.083791666666667
+Europe,Microsoft,Laptop,2025-10-01,5.0,5.58125
+Europe,Razer,All-in-One,2025-05-01,1.0,4.446416666666667
+Europe,Razer,All-in-One,2025-08-01,5.0,5.717583333333335
+Europe,Razer,All-in-One,2025-09-01,3.0,3.2977857142857148
+Europe,Razer,Desktop,2025-05-01,5.0,6.558333333333334
+Europe,Razer,Desktop,2025-06-01,1.0,3.538666666666667
+Europe,Razer,Desktop,2025-07-01,5.0,3.0889583333333333
+Europe,Razer,Desktop,2025-08-01,1.0,3.524583333333333
+Europe,Razer,Desktop,2025-10-01,1.0,3.241690476190476
+Europe,Razer,Gaming Laptop,2025-05-01,2.0,4.3145
+Europe,Razer,Gaming Laptop,2025-06-01,5.0,3.307347222222223
+Europe,Razer,Laptop,2025-07-01,3.0,5.128166666666666
+Europe,Razer,Laptop,2025-09-01,6.0,3.768500000000001
+Europe,Samsung,All-in-One,2025-05-01,5.0,3.017
+Europe,Samsung,All-in-One,2025-06-01,1.0,3.078125
+Europe,Samsung,All-in-One,2025-07-01,4.0,3.4325
+Europe,Samsung,All-in-One,2025-08-01,4.0,3.6662916666666674
+Europe,Samsung,All-in-One,2025-09-01,4.0,2.820416666666667
+Europe,Samsung,All-in-One,2025-10-01,3.0,4.085416666666667
+Europe,Samsung,Desktop,2025-05-01,1.0,2.4974999999999996
+Europe,Samsung,Desktop,2025-06-01,1.0,3.2921309523809517
+Europe,Samsung,Desktop,2025-07-01,3.0,4.626874999999999
+Europe,Samsung,Desktop,2025-08-01,1.0,4.507083333333333
+Europe,Samsung,Desktop,2025-10-01,3.0,3.167363095238095
+Europe,Samsung,Gaming Laptop,2025-05-01,6.0,3.6624285714285714
+Europe,Samsung,Gaming Laptop,2025-06-01,5.0,3.9636388888888887
+Europe,Samsung,Gaming Laptop,2025-08-01,2.0,3.2375
+Europe,Samsung,Laptop,2025-05-01,7.0,2.8875
+Europe,Samsung,Laptop,2025-06-01,5.0,4.482083333333333
+Europe,Samsung,Laptop,2025-07-01,8.0,4.243333333333334
+Europe,Samsung,Laptop,2025-08-01,3.0,2.1225
+Europe,Samsung,Laptop,2025-09-01,4.0,3.975
+North America,Acer,All-in-One,2025-06-01,3.0,6.39875
+North America,Acer,All-in-One,2025-07-01,1.0,3.083333333333333
+North America,Acer,All-in-One,2025-08-01,2.0,3.7400714285714285
+North America,Acer,All-in-One,2025-09-01,3.0,3.9239583333333337
+North America,Acer,All-in-One,2025-10-01,2.0,2.9490416666666666
+North America,Acer,Desktop,2025-05-01,5.0,4.138
+North America,Acer,Desktop,2025-06-01,6.0,3.1375416666666673
+North America,Acer,Desktop,2025-08-01,8.0,3.0383333333333336
+North America,Acer,Desktop,2025-09-01,3.0,2.64
+North America,Acer,Desktop,2025-10-01,6.0,2.7295
+North America,Acer,Gaming Laptop,2025-05-01,3.0,3.762083333333334
+North America,Acer,Gaming Laptop,2025-06-01,3.0,2.8991666666666664
+North America,Acer,Gaming Laptop,2025-07-01,3.0,3.2095833333333337
+North America,Acer,Gaming Laptop,2025-08-01,2.0,3.213589285714286
+North America,Acer,Gaming Laptop,2025-09-01,3.0,3.3945416666666666
+North America,Acer,Gaming Laptop,2025-10-01,2.0,4.037708333333334
+North America,Acer,Laptop,2025-05-01,6.0,3.0180833333333332
+North America,Acer,Laptop,2025-06-01,3.0,3.077833333333333
+North America,Acer,Laptop,2025-08-01,8.0,4.0644583333333335
+North America,Acer,Laptop,2025-09-01,5.0,2.845
+North America,Apple,All-in-One,2025-05-01,5.0,3.663625
+North America,Apple,All-in-One,2025-06-01,6.0,2.9660416666666665
+North America,Apple,All-in-One,2025-07-01,3.0,2.93475
+North America,Apple,All-in-One,2025-08-01,2.0,2.8296666666666668
+North America,Apple,All-in-One,2025-09-01,4.0,3.6099374999999996
+North America,Apple,All-in-One,2025-10-01,3.0,2.562041666666667
+North America,Apple,Desktop,2025-05-01,3.0,3.3379166666666666
+North America,Apple,Desktop,2025-06-01,6.0,3.1239999999999997
+North America,Apple,Desktop,2025-07-01,7.0,3.336666666666667
+North America,Apple,Desktop,2025-08-01,2.0,2.922916666666666
+North America,Apple,Desktop,2025-10-01,1.0,2.80125
+North America,Apple,Gaming Laptop,2025-05-01,5.0,3.309839285714286
+North America,Apple,Gaming Laptop,2025-06-01,2.0,4.363166666666666
+North America,Apple,Gaming Laptop,2025-07-01,1.0,3.187291666666667
+North America,Apple,Gaming Laptop,2025-08-01,3.0,3.4354583333333335
+North America,Apple,Gaming Laptop,2025-09-01,2.0,3.309839285714286
+North America,Apple,Laptop,2025-05-01,4.0,3.517708333333333
+North America,Apple,Laptop,2025-06-01,1.0,2.8105922619047616
+North America,Apple,Laptop,2025-08-01,3.0,3.4065416666666666
+North America,Apple,Laptop,2025-09-01,1.0,3.022738095238095
+North America,Asus,All-in-One,2025-05-01,3.0,2.6917083333333336
+North America,Asus,All-in-One,2025-06-01,1.0,3.474166666666667
+North America,Asus,All-in-One,2025-07-01,3.0,3.5614047619047606
+North America,Asus,All-in-One,2025-08-01,5.0,1.1945833333333333
+North America,Asus,All-in-One,2025-09-01,2.0,4.652541666666667
+North America,Asus,Desktop,2025-05-01,3.0,2.6238928571428572
+North America,Asus,Desktop,2025-07-01,2.0,4.541083333333334
+North America,Asus,Desktop,2025-08-01,3.0,3.298541666666667
+North America,Asus,Gaming Laptop,2025-06-01,3.0,3.931875
+North America,Asus,Gaming Laptop,2025-08-01,2.0,3.4179166666666663
+North America,Asus,Laptop,2025-05-01,3.0,3.589226190476191
+North America,Asus,Laptop,2025-06-01,4.0,3.0649583333333332
+North America,Asus,Laptop,2025-07-01,3.0,3.3361785714285714
+North America,Dell,All-in-One,2025-06-01,9.0,1.8488333333333333
+North America,Dell,All-in-One,2025-07-01,6.0,2.055
+North America,Dell,All-in-One,2025-09-01,8.0,3.5139583333333335
+North America,Dell,All-in-One,2025-10-01,5.0,4.84
+North America,Dell,Desktop,2025-08-01,2.0,4.117000000000001
+North America,Dell,Desktop,2025-10-01,3.0,3.7408333333333337
+North America,Dell,Gaming Laptop,2025-05-01,3.0,4.953666666666667
+North America,Dell,Gaming Laptop,2025-06-01,3.0,3.0398015873015867
+North America,Dell,Gaming Laptop,2025-07-01,3.0,3.692916666666668
+North America,Dell,Gaming Laptop,2025-09-01,3.0,3.635458333333334
+North America,Dell,Gaming Laptop,2025-10-01,2.0,3.635458333333334
+North America,Dell,Laptop,2025-05-01,2.0,2.690541666666667
+North America,Dell,Laptop,2025-06-01,1.0,3.9346249999999996
+North America,Dell,Laptop,2025-07-01,1.0,5.445386904761905
+North America,Dell,Laptop,2025-08-01,2.0,3.373083333333333
+North America,Dell,Laptop,2025-09-01,2.0,6.012583333333334
+North America,Dell,Laptop,2025-10-01,2.0,4.168845238095239
+North America,HP,All-in-One,2025-05-01,7.0,2.921291666666667
+North America,HP,All-in-One,2025-06-01,7.0,4.1125
+North America,HP,All-in-One,2025-07-01,2.0,3.0875
+North America,HP,All-in-One,2025-09-01,2.0,4.0075
+North America,HP,Desktop,2025-05-01,2.0,3.6205595238095243
+North America,HP,Desktop,2025-07-01,4.0,4.2699315476190485
+North America,HP,Desktop,2025-08-01,2.0,2.569666666666667
+North America,HP,Desktop,2025-09-01,2.0,4.475625
+North America,HP,Gaming Laptop,2025-06-01,3.0,3.105
+North America,HP,Gaming Laptop,2025-08-01,3.0,2.955
+North America,HP,Gaming Laptop,2025-09-01,3.0,3.0988750000000005
+North America,HP,Gaming Laptop,2025-10-01,3.0,3.934333333333334
+North America,HP,Laptop,2025-05-01,5.0,4.443958333333334
+North America,HP,Laptop,2025-07-01,3.0,3.1225
+North America,HP,Laptop,2025-08-01,3.0,3.4515
+North America,HP,Laptop,2025-09-01,1.0,6.027511904761903
+North America,Lenovo,All-in-One,2025-05-01,2.0,3.388541666666667
+North America,Lenovo,All-in-One,2025-06-01,9.0,2.6495833333333336
+North America,Lenovo,All-in-One,2025-07-01,6.0,2.4383333333333335
+North America,Lenovo,All-in-One,2025-08-01,2.0,3.27375
+North America,Lenovo,All-in-One,2025-09-01,3.0,3.3475
+North America,Lenovo,All-in-One,2025-10-01,4.0,2.709333333333333
+North America,Lenovo,Desktop,2025-05-01,3.0,3.803375
+North America,Lenovo,Desktop,2025-06-01,4.0,3.882583333333333
+North America,Lenovo,Desktop,2025-07-01,1.0,3.88
+North America,Lenovo,Desktop,2025-08-01,4.0,1.8194166666666667
+North America,Lenovo,Desktop,2025-09-01,2.0,3.067833333333333
+North America,Lenovo,Desktop,2025-10-01,1.0,2.7381666666666673
+North America,Lenovo,Gaming Laptop,2025-05-01,3.0,2.435083333333333
+North America,Lenovo,Gaming Laptop,2025-06-01,3.0,4.280875
+North America,Lenovo,Gaming Laptop,2025-08-01,3.0,3.0767202380952368
+North America,Lenovo,Gaming Laptop,2025-09-01,2.0,2.399380952380952
+North America,Lenovo,Gaming Laptop,2025-10-01,2.0,2.6030744047619043
+North America,Lenovo,Laptop,2025-06-01,4.0,2.7910416666666666
+North America,Lenovo,Laptop,2025-08-01,4.0,3.6966011904761915
+North America,Lenovo,Laptop,2025-09-01,3.0,4.266499999999999
+North America,Lenovo,Laptop,2025-10-01,3.0,2.8353749999999995
+North America,MSI,All-in-One,2025-05-01,5.0,3.6367916666666655
+North America,MSI,All-in-One,2025-06-01,1.0,3.5852916666666657
+North America,MSI,All-in-One,2025-07-01,6.0,3.5853333333333337
+North America,MSI,All-in-One,2025-09-01,2.0,2.956666666666666
+North America,MSI,Desktop,2025-07-01,4.0,4.147410714285715
+North America,MSI,Desktop,2025-08-01,3.0,3.737083333333333
+North America,MSI,Desktop,2025-09-01,8.0,4.183333333333334
+North America,MSI,Gaming Laptop,2025-05-01,5.0,3.6263750000000003
+North America,MSI,Gaming Laptop,2025-08-01,2.0,4.1225
+North America,MSI,Gaming Laptop,2025-09-01,1.0,4.14125
+North America,MSI,Gaming Laptop,2025-10-01,5.0,3.587625
+North America,MSI,Laptop,2025-05-01,3.0,3.3475
+North America,MSI,Laptop,2025-07-01,4.0,3.7254166666666664
+North America,MSI,Laptop,2025-09-01,6.0,3.3655
+North America,MSI,Laptop,2025-10-01,5.0,3.42
+North America,Microsoft,All-in-One,2025-07-01,9.0,2.407904761904762
+North America,Microsoft,All-in-One,2025-08-01,2.0,2.1704166666666667
+North America,Microsoft,All-in-One,2025-09-01,2.0,3.319375
+North America,Microsoft,Desktop,2025-05-01,3.0,3.5575
+North America,Microsoft,Desktop,2025-06-01,1.0,3.3392916666666665
+North America,Microsoft,Desktop,2025-07-01,2.0,3.08
+North America,Microsoft,Desktop,2025-08-01,4.0,3.3683750000000003
+North America,Microsoft,Desktop,2025-10-01,3.0,3.2601855158730166
+North America,Microsoft,Gaming Laptop,2025-05-01,3.0,3.1975
+North America,Microsoft,Gaming Laptop,2025-06-01,2.0,2.4425
+North America,Microsoft,Gaming Laptop,2025-07-01,1.0,3.230833333333334
+North America,Microsoft,Gaming Laptop,2025-08-01,3.0,3.9721666666666664
+North America,Microsoft,Gaming Laptop,2025-09-01,1.0,2.9323333333333337
+North America,Microsoft,Gaming Laptop,2025-10-01,7.0,3.722375
+North America,Microsoft,Laptop,2025-05-01,3.0,2.2558333333333334
+North America,Microsoft,Laptop,2025-06-01,6.0,3.3639166666666664
+North America,Microsoft,Laptop,2025-07-01,10.0,2.6766666666666667
+North America,Microsoft,Laptop,2025-08-01,6.0,3.5775
+North America,Microsoft,Laptop,2025-09-01,1.0,3.437
+North America,Razer,All-in-One,2025-05-01,3.0,2.741511904761905
+North America,Razer,All-in-One,2025-06-01,6.0,3.487761904761905
+North America,Razer,All-in-One,2025-08-01,2.0,3.5639999999999996
+North America,Razer,All-in-One,2025-09-01,5.0,3.0525
+North America,Razer,All-in-One,2025-10-01,1.0,3.29625
+North America,Razer,Desktop,2025-05-01,3.0,3.0233749999999997
+North America,Razer,Desktop,2025-06-01,1.0,2.5581666666666667
+North America,Razer,Desktop,2025-07-01,2.0,3.445464285714286
+North America,Razer,Desktop,2025-08-01,2.0,2.097083333333333
+North America,Razer,Desktop,2025-09-01,2.0,3.299625
+North America,Razer,Desktop,2025-10-01,3.0,3.253333333333333
+North America,Razer,Gaming Laptop,2025-06-01,8.0,2.6975
+North America,Razer,Gaming Laptop,2025-07-01,3.0,2.5475
+North America,Razer,Gaming Laptop,2025-08-01,3.0,3.265
+North America,Razer,Gaming Laptop,2025-09-01,2.0,2.3994999999999997
+North America,Razer,Laptop,2025-05-01,4.0,2.7697619047619035
+North America,Razer,Laptop,2025-06-01,3.0,3.883416666666667
+North America,Razer,Laptop,2025-07-01,6.0,2.501875
+North America,Razer,Laptop,2025-08-01,2.0,4.3741666666666665
+North America,Razer,Laptop,2025-09-01,2.0,3.733333333333333
+North America,Samsung,All-in-One,2025-05-01,2.0,8.284869047619049
+North America,Samsung,All-in-One,2025-06-01,4.0,3.34
+North America,Samsung,All-in-One,2025-08-01,4.0,3.6786666666666665
+North America,Samsung,All-in-One,2025-10-01,2.0,4.297291666666667
+North America,Samsung,Desktop,2025-05-01,6.0,2.5411666666666664
+North America,Samsung,Desktop,2025-06-01,1.0,3.12125
+North America,Samsung,Desktop,2025-07-01,7.0,3.4636666666666662
+North America,Samsung,Desktop,2025-08-01,1.0,3.485625
+North America,Samsung,Desktop,2025-09-01,4.0,3.5050178571428567
+North America,Samsung,Desktop,2025-10-01,3.0,3.359125
+North America,Samsung,Gaming Laptop,2025-08-01,2.0,2.476625
+North America,Samsung,Gaming Laptop,2025-09-01,1.0,3.8625
+North America,Samsung,Gaming Laptop,2025-10-01,3.0,3.5452083333333335
+North America,Samsung,Laptop,2025-05-01,2.0,2.364583333333333
+North America,Samsung,Laptop,2025-06-01,3.0,3.0925
+North America,Samsung,Laptop,2025-07-01,1.0,3.038863636363636
+North America,Samsung,Laptop,2025-09-01,1.0,3.2010833333333335
+North America,Samsung,Laptop,2025-10-01,7.0,2.364583333333333

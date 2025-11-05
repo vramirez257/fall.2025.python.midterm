@@ -1,0 +1,21 @@
+Brand,CPU,Region,Category,Support,Avg_P,TrueRate
+Dell,Ryzen 5,Europe,All-in-One,1,0.655,1.0
+Dell,i3,Asia-Pacific,All-in-One,1,0.59,0.0
+Dell,i3,North America,Desktop,1,0.59,1.0
+Razer,Ryzen 5,North America,All-in-One,3,0.5858333333333333,0.0
+Microsoft,Ryzen 3,Europe,Desktop,1,0.585,1.0
+Apple,i3,North America,Desktop,1,0.5775,0.0
+Razer,i7,North America,All-in-One,1,0.5725,1.0
+Acer,Ryzen 3,North America,All-in-One,1,0.57,1.0
+Lenovo,i3,Europe,Desktop,1,0.5625,0.0
+Apple,i5,North America,Desktop,1,0.5575,0.0
+Asus,M1,Europe,Gaming Laptop,1,0.555,1.0
+Samsung,i5,North America,Laptop,1,0.555,1.0
+Lenovo,M2,Europe,Desktop,1,0.55,0.0
+Apple,Ryzen 3,Asia-Pacific,All-in-One,1,0.5475,0.0
+Acer,M2,North America,Desktop,1,0.5425,0.0
+MSI,Ryzen 3,North America,All-in-One,1,0.54,1.0
+Microsoft,Ryzen 5,North America,All-in-One,1,0.535,0.0
+Razer,Ryzen 3,Asia-Pacific,All-in-One,1,0.535,0.0
+Dell,i5,Asia-Pacific,All-in-One,1,0.5325,0.0
+MSI,i7,North America,Desktop,1,0.5325,1.0

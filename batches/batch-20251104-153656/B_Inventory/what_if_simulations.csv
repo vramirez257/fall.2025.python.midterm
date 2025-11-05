@@ -1,0 +1,5 @@
+change,delta_high_rating_prob
+{'CPU': 'Core i7'},0.025000000000000022
+{'CPU': 'Ryzen 7'},0.02999999999999997
+{'GPU': 'NVIDIA RTX 4060'},-0.05249999999999999
+{'OS': 'Windows 11 Pro'},0.05249999999999999

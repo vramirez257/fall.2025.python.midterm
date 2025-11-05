@@ -1,0 +1,32 @@
+{
+  "random_state": 42,
+  "target": "TotalAmount",
+  "threshold": 0.5,
+  "add_seasonality": false,
+  "artifacts_dir": "C:\\Users\\vramirez\\OneDrive - Dallas Baptist University\\VS Code\\fall.2025.python.midterm\\outputs",
+  "regression_results": [
+    {
+      "model": "LinearRegression",
+      "rmse": 1878.013751073031,
+      "mae": 1546.463286194892,
+      "r2": -0.0060218329420136385,
+      "best_params": NaN
+    },
+    {
+      "model": "RandomForestRegressor (tuned)",
+      "rmse": 1880.2028986682076,
+      "mae": 1551.2372389490488,
+      "r2": -0.008368582396990787,
+      "best_params": {
+        "rf__max_depth": 10,
+        "rf__min_samples_split": 5,
+        "rf__n_estimators": 400
+      }
+    }
+  ],
+  "forecasting_results": {
+    "rmse": 2.208688941454185,
+    "mae": 1.7051441014667903,
+    "r2": -0.29119463638256726
+  }
+}

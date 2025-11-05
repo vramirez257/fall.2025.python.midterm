@@ -1,0 +1,24 @@
+{
+  "random_state": 42,
+  "target": "InventoryAction",
+  "threshold": 0.35,
+  "add_seasonality": false,
+  "artifacts_dir": "C:\\Users\\vramirez\\OneDrive - Dallas Baptist University\\VS Code\\fall.2025.python.midterm\\outputs",
+  "inventory_results": {
+    "acc": 0.4445,
+    "prec": 0.39263803680981596,
+    "rec": 0.7236180904522613,
+    "f1": 0.5090587715422006,
+    "auc": 0.49630628224177364
+  },
+  "highrating_results": {
+    "acc": 0.4445,
+    "prec": 0.39263803680981596,
+    "rec": 0.7236180904522613,
+    "f1": 0.5090587715422006,
+    "auc": 0.49630628224177364
+  },
+  "what_if": {
+    "auc": 0.49630628224177364
+  }
+}

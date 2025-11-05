@@ -1,0 +1,17 @@
+{
+  "random_state": 42,
+  "target": "HighRating",
+  "threshold": 0.4,
+  "add_seasonality": false,
+  "artifacts_dir": "C:\\Users\\vramirez\\OneDrive - Dallas Baptist University\\VS Code\\fall.2025.python.midterm\\outputs",
+  "highrating_results": {
+    "acc": 0.514,
+    "prec": 0.4067796610169492,
+    "rec": 0.4824120603015075,
+    "f1": 0.4413793103448276,
+    "auc": 0.49630628224177364
+  },
+  "what_if": {
+    "auc": 0.49630628224177364
+  }
+}

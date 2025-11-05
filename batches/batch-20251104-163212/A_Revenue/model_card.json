@@ -1,0 +1,8 @@
+{
+  "random_state": 42,
+  "target": "TotalAmount",
+  "date_used_as_feature": false,
+  "leakage_guardrails": true,
+  "calibrated": false,
+  "seasonality": false
+}
