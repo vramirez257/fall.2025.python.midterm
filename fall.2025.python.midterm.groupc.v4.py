@@ -1,6 +1,40 @@
+# ------------------------------------------------------------------------------
+# Project Title: Predicting and Optimizing Laptop Sales with Machine Learning
+# Course: Python MSITM-6341
+# Professor: Dean-Yuan (Dennis) Wang
+# Team: Group C
+#
+# Description:
+# This project applies machine learning techniques to analyze and forecast laptop
+# and PC sales data. The goal is to predict future demand, recommend inventory
+# actions, and simulate product feature improvements that can enhance customer
+# ratings and drive sales growth.
+#
+# Key Objectives:
+# 1. Forecast future sales using product features and customer ratings.
+# 2. Classify and recommend inventory actions (e.g., increase, maintain, or reduce stock).
+# 3. Simulate product upgrades (e.g., CPU, GPU, RAM) to identify which changes
+#    have the greatest positive impact on ratings and future sales.
+#
+# The project demonstrates end-to-end data science skills, including:
+# - Data cleaning and feature engineering
+# - Exploratory data analysis (EDA) and visualization
+# - Machine learning model training and evaluation
+# - Scenario simulation and interpretation of model results
+#
+# Dataset: Laptop and PC Sales Dataset (real-world sample)
+# Tools & Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
+#
+# ------------------------------------------------------------------------------
+
+
+
 # -------------------------------------------------------------------------
 # commit: setup-and-imports
+#   Initial project setup and library imports
+#   - Set global configurations and random seed for reproducibility
 # -------------------------------------------------------------------------
+
 import os
 from pathlib import Path
 import json
@@ -22,7 +56,13 @@ from sklearn.metrics import (
 from sklearn.linear_model import LinearRegression
 from sklearn.ensemble import RandomForestClassifier, RandomForestRegressor
 
+# -------------------------------------------------------------------------
 # Set some global display options
+#  - Matplotlib figure size
+#  - Pandas display options
+#  - Random seed for reproducibility
+# -------------------------------------------------------------------------
+
 plt.rcParams.update({'figure.figsize': (8, 5)})
 pd.set_option('display.max_columns', 100)
 
@@ -33,6 +73,9 @@ np.random.seed(RANDOM_STATE)
 
 # -------------------------------------------------------------------------
 # commit: compatibility-helpers
+#   Helper functions for compatibility across scikit-learn versions
+#   - RMSE calculation handling squared parameter changes
+#   - Scorer name retrieval for regression tasks
 # -------------------------------------------------------------------------
 def rmse_compat(y_true, y_pred):
     try:
@@ -49,8 +92,11 @@ def get_regression_scoring_name():
 
 
 # -------------------------------------------------------------------------
-# commit: config-and-paths
+# Configuration and Paths
+#   - Define dataset path, target variable, row limits, and NA value handling
+#   - Resolve paths for script or notebook execution
 # -------------------------------------------------------------------------
+
 CONFIG = {
     "data_path": "laptop_pc_sales_dataset.csv",   # relative path
     "target": "FinalPrice",
@@ -69,7 +115,11 @@ DATA_PATH = (HERE / CONFIG["data_path"]).resolve()
 
 # -------------------------------------------------------------------------
 # commit: load-and-inspect
+#   Load dataset and perform initial inspection
+#   - Handle NA values and row limits
+#   - Display shape, head, info, and descriptive statistics
 # -------------------------------------------------------------------------
+
 read_kwargs = {}
 if CONFIG["na_values"]:
     read_kwargs["na_values"] = CONFIG["na_values"]
@@ -91,7 +141,13 @@ print(df.describe(include='all').T)
 
 # -------------------------------------------------------------------------
 # commit: basic-cleaning
+#   Basic data cleaning steps
+#   - Remove duplicates
+#   - Strip whitespace from string columns
+#   - Drop TransactionID column
+#   - Handle missing values and drop high-missingness columns
 # -------------------------------------------------------------------------
+
 before = len(df)
 df = df.drop_duplicates()
 after = len(df)
@@ -121,7 +177,13 @@ print("Shape after cleaning:", df.shape)
 
 # -------------------------------------------------------------------------
 # commit: target-and-split (no date features)
+#   Define target variable and split data into training and testing sets
+#   - Drop date-based features from predictors
+#   - De-leak features that reveal the target
+#   - Determine task type (regression/classification)
+#   - Stratified splitting if classification
 # -------------------------------------------------------------------------
+
 assert CONFIG["target"] is not None, "Set CONFIG['target'] to your target column name."
 assert CONFIG["target"] in df.columns, f"Target '{CONFIG['target']}' not found in columns."
 
@@ -155,7 +217,13 @@ print(X_train.describe(include='all').T)
 
 # -------------------------------------------------------------------------
 # commit: preprocessing-two-techniques (no date in features)
+#   Preprocessing pipelines for numeric and categorical features
+#   - Impute missing values
+#   - Scale numeric features
+#   - One-hot encode categorical features
+#   - Handle sklearn version differences for OneHotEncoder
 # -------------------------------------------------------------------------
+
 cat_cols = X_train.select_dtypes(include=['object', 'category']).columns.tolist()
 num_cols = X_train.select_dtypes(include=[np.number]).columns.tolist()
 
@@ -191,7 +259,13 @@ preprocessor = ColumnTransformer(
 
 # -------------------------------------------------------------------------
 # commit: light-eda-plots
+#   Exploratory Data Analysis (EDA) visualizations with enhanced labeling
+#   - Histograms with count labels
+#   - Box plots with median labels
+#   - Correlation heatmap
+#   - Bar plots with count labels for categorical features
 # -------------------------------------------------------------------------
+
 # Histograms with bar labels
 for col in X_train.select_dtypes(include=[np.number]).columns[:3]:
     plt.figure()
@@ -208,7 +282,6 @@ for col in X_train.select_dtypes(include=[np.number]).columns[:3]:
 
     plt.tight_layout()
     plt.show()
-
 
 
 # Histogram for FinalPrice
@@ -248,7 +321,6 @@ if "Rating" in df.columns:
 
     plt.tight_layout()
     plt.show()
-
 
 
 # Box plot with median label
@@ -310,7 +382,11 @@ if "Region" in df.columns:
 
 # -------------------------------------------------------------------------
 # commit: models-and-evaluation (FinalPrice regression)
+#   Train and evaluate regression models for FinalPrice prediction
+#   - Linear Regression
+#   - Random Forest Regressor with light hyperparameter tuning
 # -------------------------------------------------------------------------
+
 results = []
 
 # Linear Regression
@@ -718,7 +794,12 @@ else:
 
 # -------------------------------------------------------------------------
 # commit: save-outputs
+#   Save cleaned dataset, model results, forecasts, recommendations, and simulations
+#   - Create outputs directory if not exists
+#   - Save relevant DataFrames to CSV files
+#   - Save model card as JSON
 # -------------------------------------------------------------------------
+
 OUTPUT_DIR = HERE / "outputs"
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
